@@ -32,8 +32,7 @@ namespace ProjectMercado
                 options.AddPolicy(MyAllowSpecificOrigins,
                 builder =>
                 {
-                    builder.WithOrigins("http://localhost:8100",
-                                        "http://www.contoso.com");
+                    builder.WithOrigins("*");
                 });
             });
             services.AddMvc().SetCompatibilityVersion(CompatibilityVersion.Version_2_2);

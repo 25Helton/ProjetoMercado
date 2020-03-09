@@ -43,6 +43,7 @@ namespace ProjectMercado.Controllers
             }
 
             return listCad;
+
         }
 
         // GET api/values/5
