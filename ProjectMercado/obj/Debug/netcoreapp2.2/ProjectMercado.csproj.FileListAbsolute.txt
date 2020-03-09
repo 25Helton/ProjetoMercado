@@ -1,0 +1,16 @@
+C:\Users\2872\source\repos\ProjectMercado\ProjectMercado\bin\Debug\netcoreapp2.2\appsettings.Development.json
+C:\Users\2872\source\repos\ProjectMercado\ProjectMercado\bin\Debug\netcoreapp2.2\appsettings.json
+C:\Users\2872\source\repos\ProjectMercado\ProjectMercado\bin\Debug\netcoreapp2.2\Properties\launchSettings.json
+C:\Users\2872\source\repos\ProjectMercado\ProjectMercado\bin\Debug\netcoreapp2.2\ProjectMercado.deps.json
+C:\Users\2872\source\repos\ProjectMercado\ProjectMercado\bin\Debug\netcoreapp2.2\ProjectMercado.runtimeconfig.json
+C:\Users\2872\source\repos\ProjectMercado\ProjectMercado\bin\Debug\netcoreapp2.2\ProjectMercado.runtimeconfig.dev.json
+C:\Users\2872\source\repos\ProjectMercado\ProjectMercado\bin\Debug\netcoreapp2.2\ProjectMercado.dll
+C:\Users\2872\source\repos\ProjectMercado\ProjectMercado\obj\Debug\netcoreapp2.2\ProjectMercado.csprojAssemblyReference.cache
+C:\Users\2872\source\repos\ProjectMercado\ProjectMercado\obj\Debug\netcoreapp2.2\ProjectMercado.RazorAssemblyInfo.cache
+C:\Users\2872\source\repos\ProjectMercado\ProjectMercado\obj\Debug\netcoreapp2.2\ProjectMercado.RazorAssemblyInfo.cs
+C:\Users\2872\source\repos\ProjectMercado\ProjectMercado\obj\Debug\netcoreapp2.2\ProjectMercado.AssemblyInfoInputs.cache
+C:\Users\2872\source\repos\ProjectMercado\ProjectMercado\obj\Debug\netcoreapp2.2\ProjectMercado.AssemblyInfo.cs
+C:\Users\2872\source\repos\ProjectMercado\ProjectMercado\obj\Debug\netcoreapp2.2\ProjectMercado.RazorTargetAssemblyInfo.cache
+C:\Users\2872\source\repos\ProjectMercado\ProjectMercado\bin\Debug\netcoreapp2.2\ProjectMercado.pdb
+C:\Users\2872\source\repos\ProjectMercado\ProjectMercado\obj\Debug\netcoreapp2.2\ProjectMercado.dll
+C:\Users\2872\source\repos\ProjectMercado\ProjectMercado\obj\Debug\netcoreapp2.2\ProjectMercado.pdb
